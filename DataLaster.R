@@ -1,5 +1,6 @@
-#source("P:/Jobb/R/dognnormaler.R")
-#source("P:/Jobb/R/Datalaster.R")
+#require(devtools)
+#source_url("https://raw.githubusercontent.com/hohygen/METdata/master/DataLaster.R")
+
 
 #https://dokit.met.no/klima/userservices/urlinterface
 #https://dokit.met.no/klima/userservices/urlinterface/brukerdok
